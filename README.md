@@ -22,9 +22,3 @@ A clean, minimal to-do list app for Android. Add tasks, mark them done, and stay
 - **UI:** Jetpack Compose
 - **Local Storage:** Room database
 - **Async:** Coroutines / Flow
-
-## Contact details
-X — [@i_ankytKumar](https://x.com/i_ankytKumar)
-Email - ankytkumar05@gmail.com
-
-Project Link: [https://github.com/Ankyt-Kumar/simple-todo](https://github.com/Ankyt-Kumar/todoApp)
